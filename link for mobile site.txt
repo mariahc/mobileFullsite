@@ -1,0 +1,3 @@
+On your mobile site, place the following link to allow visitors to view the full site without being forced back into the mobile site:
+
+<a href="http://www.yourFullSite.com/?ViewFullSite=true">View full site</a>
